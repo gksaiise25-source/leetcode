@@ -3,7 +3,7 @@ public:
     int countSpecialIntegers(vector<int>& nums) {
         int n =nums.size();
         int cnt = 0;
-        map<int , vector<int> > mp;
+        unordered_map<int , vector<int> > mp;
         for(int i=0;i<n;i++){
             mp[nums[i]].push_back(i);
         }
