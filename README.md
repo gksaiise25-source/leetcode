@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gksaiise25-source/leetcode/tree/master/0078-subsets) |
+| [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
 ## Backtracking
 |  |
 | ------- |
@@ -13,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gksaiise25-source/leetcode/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
