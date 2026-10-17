@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gksaiise25-source/leetcode/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/gksaiise25-source/leetcode/tree/master/0078-subsets) |
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
 ## Backtracking
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/gksaiise25-source/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
