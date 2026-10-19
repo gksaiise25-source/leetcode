@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/gksaiise25-source/leetcode/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/gksaiise25-source/leetcode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gksaiise25-source/leetcode/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/gksaiise25-source/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
