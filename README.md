@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gksaiise25-source/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/gksaiise25-source/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
