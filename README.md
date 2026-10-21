@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/gksaiise25-source/leetcode/tree/master/0175-combine-two-tables) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/gksaiise25-source/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## String
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/gksaiise25-source/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
